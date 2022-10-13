@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>assign 6</title>
+</head>
+<body>
+<h1>shopping list</h1>
+<ul>
+<li>panner</li>
+<li>cheese</li>
+<li>butter</li>
+<li>pizza</li>
+<li>bread</li>
+<li>grass</li>
+<li>bottle</li>
+<li>OMR</li>
+</ul>
+<ol>
+<h2>todo's list</h2>
+<li>work</li>
+<li>sleep</li>
+<li>eat</li>
+<li>repeat</li>
+<li>remember stuff</li>
+<li>figure what is stuff</li>
+<li>try to remember what i was trying to remember</li>
+</ol>
+<ol>
+<h3>Top 5 games and movies</h3>
+<li>SPIDERMANNNN</li>
+<li>SPIDERMAN NO WAY HOME</li>
+<li>SPIDERMAN 2</li>
+<li>HALF GIRLFRIEND</li>
+<li>ROCKSTAR</li>
+<li>AVENGERS</li>
+<li>iNCEPTION</li>
+<li>COD</li>
+</ol>
+</body>
+</html>
